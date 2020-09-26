@@ -2,7 +2,10 @@
 This is a temperature monitoring system using ATMEGA16 and LM35 temperature sensor. This project uses my previous repositories LCD and ADC library and it is simulated using Proteus.
 
 This Project is successfully simulated using Proteus and I will implement this in hardware very soon.
-
+# Softwares used
+  Atmel studio
+  Proteus
+# Components used
 It uses
   Atmega16 controller,
   16x2 Alphanumeric LCD display,
