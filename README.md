@@ -24,7 +24,7 @@ The above libraries are created in atmel studio 7.0. You can also refer this.
 
 
 # Proteus simulation
-![Proteus simuatioin](https://github.com/Udayanan08/Temperature-Monitoring-system-using-Atmega16-and-LM35/blob/master/proteus_simulation.mp4)
+![Proteus simuatioin](https://github.com/Udayanan08/Temperature-Monitoring-system-using-Atmega16-and-LM35/blob/master/Proteus%20simulation/Screenshot%20(219).png)
 
 
 
