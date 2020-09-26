@@ -3,13 +3,13 @@ This is a temperature monitoring system using ATMEGA16 and LM35 temperature sens
 
 This Project is successfully simulated using Proteus and I will implement this in hardware very soon.
 # Softwares used
-  Atmel studio
-  Proteus
+  * Atmel studio,
+  * Proteus
 # Components used
 It uses
-  Atmega16 controller,
-  16x2 Alphanumeric LCD display,
-  LM35 temperature sensor.
+  * Atmega16 controller,
+  * 16x2 Alphanumeric LCD display,
+  * LM35 temperature sensor.
   
 This LM35 sensor is a analog sensor which gives analog signals based on the temperature.
 
