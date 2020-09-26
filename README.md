@@ -15,12 +15,17 @@ Atmega16's 10 bit ADC is used to convert this analog signal in to digital and th
 With some basic calculations we can convert the voltage value in to corresponding temperature.
 
 The measured temperature will be displayed using LCD display
-
+# Libraries Used
 You can find the libraries in my repository,
   Udayanan08/ADC_ATMEGA16,
   Udayanan08/Atmega16-16x2-Alphanumeric-library.
   
 The above libraries are created in atmel studio 7.0. You can also refer this.
+
+
+# Proteus simulation
+[https://github.com/Udayanan08/Temperature-Monitoring-system-using-Atmega16-and-LM35/blob/master/proteus_simulation.mp4]
+
 
 
 ___________________________________________________________________________________________________________________________________________
